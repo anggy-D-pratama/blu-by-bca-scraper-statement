@@ -1,0 +1,8 @@
+.npmrc
+.env
+node_modules
+appium_log
+package-lock.json
+local_cache.db
+/screenshot
+/dummy/*
